@@ -17,7 +17,8 @@ const two = 2
 
 }
 
-var funkyFunction = function() {
+var funkyFunction = function('funkster') {
+var = ('"FUNKY!""')
   return function() {
     return "FUNKY!"
   }
